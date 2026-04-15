@@ -1,0 +1,17 @@
+{"tickets":[
+    {
+        "id":"df6c75f5-3a89-4c58-8f3a-5822e954a71c",
+        "equipment":"Notebook",
+        "description":"Não carrega mais",
+        "user_name":"Kaio Augusto",
+        "status":"open",
+        "created_at":"2026-04-12T20:24:31.799Z",
+        "update":"2026-04-12T20:24:31.799Z"},
+    {
+        "id":"1aca400e-b43b-4a08-9985-66c86bab24f9",
+        "equipment":"Celular",
+        "description":"Tela Quebrada",
+        "user_name":"Joaozinho",
+        "status":"open",
+        "created_at":"2026-04-12T20:33:50.478Z",
+        "update":"2026-04-12T20:33:50.478Z"}]}
