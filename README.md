@@ -11,6 +11,8 @@ Projeto criado com o objetivo de entender na prática como funcionam APIs e os m
 Tudo feito na unha, utilizando apenas os módulos nativos do Node.js.
 
 ---
+##Status do projeto:
+> Ainda incompleto
 
 ## 🛠 Tecnologias
 
