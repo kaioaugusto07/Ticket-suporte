@@ -13,6 +13,7 @@ Tudo feito na unha, utilizando apenas os módulos nativos do Node.js.
 ---
 ##Status do projeto:
 > Ainda incompleto
+> Alguns bugs de requisição
 
 ## 🛠 Tecnologias
 
